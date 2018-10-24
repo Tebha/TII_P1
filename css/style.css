@@ -1,9 +1,14 @@
 .clase1{
-    border: 2px solid black;
     width: 600px;
     height: 530px;
+    border: 2px solid black;
     align-content: center;
     margin-left: 25%;
     margin-top: 2%;
     background-color: bisque;
+}
+.clase2{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
 }
